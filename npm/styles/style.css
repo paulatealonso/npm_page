@@ -1,0 +1,69 @@
+.break {
+    width: 20px;
+    height: 10px;
+}
+
+.brown{
+    width: 100px;
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.phrase {
+    text-align: center;
+    font-size: 15px;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.mpn {
+    width: 40px;
+    height: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.pepo {
+    background-color: #eddddd;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-right: 90px;
+    padding-bottom: 20px;
+}
+
+#list1 li {
+    display: inline;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+button {
+    padding: 8px;
+    color: rgb(59, 50, 39);
+    border: 2px solid #eeddd2;
+}
+
+.conteiner {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    font-size: 12px;
+}
